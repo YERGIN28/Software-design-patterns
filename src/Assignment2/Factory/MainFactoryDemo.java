@@ -1,4 +1,4 @@
-package Factory;
+package Assignment2.Factory;
 
 public class MainFactoryDemo {
     public static void main(String[] args) {

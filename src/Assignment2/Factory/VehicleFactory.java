@@ -1,4 +1,4 @@
-package Factory;
+package Assignment2.Factory;
 
 public class VehicleFactory {
     public static Vehicle createVehicle(String type) {

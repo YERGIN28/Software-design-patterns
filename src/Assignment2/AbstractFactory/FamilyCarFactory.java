@@ -1,4 +1,4 @@
-package AbstractFactory;
+package Assignment2.AbstractFactory;
 
 
 public class FamilyCarFactory implements AbstractCarFactory {

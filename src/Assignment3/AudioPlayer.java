@@ -1,6 +1,6 @@
 package Assignment3;
 
-// AudioPlayer.java (Client using Adapter)
+
 public class AudioPlayer implements MediaPlayer {
     private MediaAdapter mediaAdapter;
 

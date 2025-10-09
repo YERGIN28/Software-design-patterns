@@ -1,6 +1,6 @@
 package Assignment3;
 
-// Main.java (Demo)
+
 public class Main {
     public static void main(String[] args) {
         AudioPlayer audioPlayer = new AudioPlayer();

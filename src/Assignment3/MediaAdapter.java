@@ -1,6 +1,6 @@
 package Assignment3;
 
-// MediaAdapter.java (Adapter)
+
 public class MediaAdapter implements MediaPlayer {
     private AdvancedMediaPlayer advancedMusicPlayer;
 
